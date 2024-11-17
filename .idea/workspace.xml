@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2bc5d72e-e3ba-43fc-a583-9cedf1300c2c" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,18 +94,6 @@
     "last_opened_file_path": "C:/PythonProjects/git_lession_3/vshaurme"
   }
 }]]></component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
